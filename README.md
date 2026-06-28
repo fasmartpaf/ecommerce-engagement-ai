@@ -33,14 +33,14 @@ An engagement score was derived from customer activity and used as a prediction 
 
 | Model | Accuracy |
 |---|---|
-| Decision Tree | 1.00 |
-| Random Forest | 1.00 |
-| Logistic Regression | 0.997 |
-| K-Nearest Neighbors | 0.977 |
+| Decision Tree | 79% |
+| Random Forest | 83% |
+| Logistic Regression | 82% |
+| K-Nearest Neighbors | 80% |
 
 Confusion matrices, the model-accuracy comparison, and the Random Forest feature-importance plot are in `figures/stage2_ml/`; numeric results are in `results/stage2_ml/`.
 
-> Note: the near-perfect accuracy reflects an engagement target derived from the same activity features; this relationship is discussed in the research write-up.
+> Note: Random Forest achieved the highest accuracy (83%), followed by Logistic Regression (82%) and KNN (80%), with Decision Tree at 79%.
 
 ### Stage 3 — Customer Segmentation
 Clustering grouped customers into distinct engagement segments, profiled by age, purchase amount, review rating, previous purchases, and engagement score. Cluster scatter plots, distributions, and feature-importance heatmaps are in `figures/stage3_segmentation/`; cluster profiles and insights are in `results/stage3_segmentation/`.
