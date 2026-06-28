@@ -1,0 +1,16 @@
+
+Stage: stage3_segmentation
+Generated: 2026-03-09 10:42:27.242108
+
+Fig_6_1 – cluster_scatter
+Purpose: PCA visualization of customer clusters.
+
+Fig_6_2 – cluster_distribution
+Purpose: Number of customers in each cluster.
+
+Fig_6_3 – cluster_feature_heatmap
+Purpose: Average feature values within each cluster.
+
+Fig_6_4 – feature_importance_random_forest
+Purpose: Random Forest feature importance showing drivers of cluster formation.
+

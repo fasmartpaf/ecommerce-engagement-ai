@@ -1,0 +1,24 @@
+
+Stage: stage3_segmentation
+Generated: 2026-03-09 10:42:27.242108
+
+Fig_6_1
+Chapter: 6
+Section: Customer Segmentation
+Placement: After the relevant discussion paragraph.
+
+Fig_6_2
+Chapter: 6
+Section: Cluster Statistics
+Placement: After the relevant discussion paragraph.
+
+Fig_6_3
+Chapter: 6
+Section: Cluster Behaviour
+Placement: After the relevant discussion paragraph.
+
+Fig_6_4
+Chapter: 6
+Section: Explainable AI
+Placement: After the relevant discussion paragraph.
+
