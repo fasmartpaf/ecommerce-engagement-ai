@@ -1,0 +1,6 @@
+
+Stage: stage1_statistics
+Generated: 2026-03-09 10:39:21.342513
+
+Correlation heatmap suggests relationships between purchasing behavior variables.
+

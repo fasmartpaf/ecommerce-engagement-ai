@@ -1,0 +1,30 @@
+LIST OF FIGURES
+
+Figure 4.1 – 10 Size categorical distribution
+Figure 4.2 – 11 Color categorical distribution
+Figure 4.3 – 12 Season categorical distribution
+Figure 4.4 – 13 Subscription Status categorical distribution
+Figure 4.5 – 14 Discount Applied categorical distribution
+Figure 4.6 – 15 Payment Method categorical distribution
+Figure 4.7 – 16 Frequency of Purchases categorical distribution
+Figure 4.8 – 17 correlation heatmap
+Figure 4.9 – 1 Customer ID distribution
+Figure 4.10 – 2 Age distribution
+Figure 4.11 – 3 Purchase Amount (USD) distribution
+Figure 4.12 – 4 Review Rating distribution
+Figure 4.13 – 5 Previous Purchases distribution
+Figure 4.14 – 6 Gender categorical distribution
+Figure 4.15 – 7 Item Purchased categorical distribution
+Figure 4.16 – 8 Category categorical distribution
+Figure 4.17 – 9 Location categorical distribution
+Figure 5.18 – 1 engagement score distribution
+Figure 5.19 – 2 confusion matrix DecisionTree
+Figure 5.20 – 3 confusion matrix RandomForest
+Figure 5.21 – 4 feature importance random forest
+Figure 5.22 – 5 confusion matrix LogisticRegression
+Figure 5.23 – 6 confusion matrix KNN
+Figure 5.24 – 7 model accuracy comparison
+Figure 6.25 – 1 cluster scatter
+Figure 6.26 – 2 cluster distribution
+Figure 6.27 – 3 cluster feature heatmap
+Figure 6.28 – 4 feature importance random forest

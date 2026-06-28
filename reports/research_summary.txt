@@ -1,0 +1,11 @@
+RESEARCH SUMMARY
+
+This research analyses customer engagement patterns in e-commerce platforms using statistical analysis, machine learning models, and customer segmentation.
+
+Key objectives:
+- Understand purchasing behaviour
+- Predict customer engagement
+- Discover hidden customer segments
+- Identify engagement drivers
+
+Outputs include statistical figures, ML experiment results, segmentation analysis, and explainable AI insights.

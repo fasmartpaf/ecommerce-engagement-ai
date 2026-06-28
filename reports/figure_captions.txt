@@ -1,0 +1,58 @@
+FIGURE CAPTIONS
+
+Figure 4.1: 10 Size categorical distribution showing relevant patterns in customer behaviour data.
+
+Figure 4.2: 11 Color categorical distribution showing relevant patterns in customer behaviour data.
+
+Figure 4.3: 12 Season categorical distribution showing relevant patterns in customer behaviour data.
+
+Figure 4.4: 13 Subscription Status categorical distribution showing relevant patterns in customer behaviour data.
+
+Figure 4.5: 14 Discount Applied categorical distribution showing relevant patterns in customer behaviour data.
+
+Figure 4.6: 15 Payment Method categorical distribution showing relevant patterns in customer behaviour data.
+
+Figure 4.7: 16 Frequency of Purchases categorical distribution showing relevant patterns in customer behaviour data.
+
+Figure 4.8: 17 correlation heatmap showing relevant patterns in customer behaviour data.
+
+Figure 4.9: 1 Customer ID distribution showing relevant patterns in customer behaviour data.
+
+Figure 4.10: 2 Age distribution showing relevant patterns in customer behaviour data.
+
+Figure 4.11: 3 Purchase Amount (USD) distribution showing relevant patterns in customer behaviour data.
+
+Figure 4.12: 4 Review Rating distribution showing relevant patterns in customer behaviour data.
+
+Figure 4.13: 5 Previous Purchases distribution showing relevant patterns in customer behaviour data.
+
+Figure 4.14: 6 Gender categorical distribution showing relevant patterns in customer behaviour data.
+
+Figure 4.15: 7 Item Purchased categorical distribution showing relevant patterns in customer behaviour data.
+
+Figure 4.16: 8 Category categorical distribution showing relevant patterns in customer behaviour data.
+
+Figure 4.17: 9 Location categorical distribution showing relevant patterns in customer behaviour data.
+
+Figure 5.18: 1 engagement score distribution showing relevant patterns in customer behaviour data.
+
+Figure 5.19: 2 confusion matrix DecisionTree showing relevant patterns in customer behaviour data.
+
+Figure 5.20: 3 confusion matrix RandomForest showing relevant patterns in customer behaviour data.
+
+Figure 5.21: 4 feature importance random forest showing relevant patterns in customer behaviour data.
+
+Figure 5.22: 5 confusion matrix LogisticRegression showing relevant patterns in customer behaviour data.
+
+Figure 5.23: 6 confusion matrix KNN showing relevant patterns in customer behaviour data.
+
+Figure 5.24: 7 model accuracy comparison showing relevant patterns in customer behaviour data.
+
+Figure 6.25: 1 cluster scatter showing relevant patterns in customer behaviour data.
+
+Figure 6.26: 2 cluster distribution showing relevant patterns in customer behaviour data.
+
+Figure 6.27: 3 cluster feature heatmap showing relevant patterns in customer behaviour data.
+
+Figure 6.28: 4 feature importance random forest showing relevant patterns in customer behaviour data.
+
