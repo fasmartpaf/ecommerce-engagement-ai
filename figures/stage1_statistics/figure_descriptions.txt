@@ -1,0 +1,55 @@
+
+Stage: stage1_statistics
+Generated: 2026-03-09 10:39:21.342513
+
+Fig_4_1 – Customer ID_distribution
+Purpose: Shows statistical distribution of Customer ID.
+
+Fig_4_2 – Age_distribution
+Purpose: Shows statistical distribution of Age.
+
+Fig_4_3 – Purchase Amount (USD)_distribution
+Purpose: Shows statistical distribution of Purchase Amount (USD).
+
+Fig_4_4 – Review Rating_distribution
+Purpose: Shows statistical distribution of Review Rating.
+
+Fig_4_5 – Previous Purchases_distribution
+Purpose: Shows statistical distribution of Previous Purchases.
+
+Fig_4_6 – Gender_categorical_distribution
+Purpose: Shows distribution of categories for Gender.
+
+Fig_4_7 – Item Purchased_categorical_distribution
+Purpose: Shows distribution of categories for Item Purchased.
+
+Fig_4_8 – Category_categorical_distribution
+Purpose: Shows distribution of categories for Category.
+
+Fig_4_9 – Location_categorical_distribution
+Purpose: Shows distribution of categories for Location.
+
+Fig_4_10 – Size_categorical_distribution
+Purpose: Shows distribution of categories for Size.
+
+Fig_4_11 – Color_categorical_distribution
+Purpose: Shows distribution of categories for Color.
+
+Fig_4_12 – Season_categorical_distribution
+Purpose: Shows distribution of categories for Season.
+
+Fig_4_13 – Subscription Status_categorical_distribution
+Purpose: Shows distribution of categories for Subscription Status.
+
+Fig_4_14 – Discount Applied_categorical_distribution
+Purpose: Shows distribution of categories for Discount Applied.
+
+Fig_4_15 – Payment Method_categorical_distribution
+Purpose: Shows distribution of categories for Payment Method.
+
+Fig_4_16 – Frequency of Purchases_categorical_distribution
+Purpose: Shows distribution of categories for Frequency of Purchases.
+
+Fig_4_17 – correlation_heatmap
+Purpose: Shows correlation relationships among numerical features.
+

@@ -1,0 +1,89 @@
+
+Stage: stage1_statistics
+Generated: 2026-03-09 10:39:21.342513
+
+Fig_4_1
+Chapter: 4
+Section: Descriptive Statistics
+Placement: After the relevant discussion paragraph.
+
+Fig_4_2
+Chapter: 4
+Section: Descriptive Statistics
+Placement: After the relevant discussion paragraph.
+
+Fig_4_3
+Chapter: 4
+Section: Descriptive Statistics
+Placement: After the relevant discussion paragraph.
+
+Fig_4_4
+Chapter: 4
+Section: Descriptive Statistics
+Placement: After the relevant discussion paragraph.
+
+Fig_4_5
+Chapter: 4
+Section: Descriptive Statistics
+Placement: After the relevant discussion paragraph.
+
+Fig_4_6
+Chapter: 4
+Section: Categorical Analysis
+Placement: After the relevant discussion paragraph.
+
+Fig_4_7
+Chapter: 4
+Section: Categorical Analysis
+Placement: After the relevant discussion paragraph.
+
+Fig_4_8
+Chapter: 4
+Section: Categorical Analysis
+Placement: After the relevant discussion paragraph.
+
+Fig_4_9
+Chapter: 4
+Section: Categorical Analysis
+Placement: After the relevant discussion paragraph.
+
+Fig_4_10
+Chapter: 4
+Section: Categorical Analysis
+Placement: After the relevant discussion paragraph.
+
+Fig_4_11
+Chapter: 4
+Section: Categorical Analysis
+Placement: After the relevant discussion paragraph.
+
+Fig_4_12
+Chapter: 4
+Section: Categorical Analysis
+Placement: After the relevant discussion paragraph.
+
+Fig_4_13
+Chapter: 4
+Section: Categorical Analysis
+Placement: After the relevant discussion paragraph.
+
+Fig_4_14
+Chapter: 4
+Section: Categorical Analysis
+Placement: After the relevant discussion paragraph.
+
+Fig_4_15
+Chapter: 4
+Section: Categorical Analysis
+Placement: After the relevant discussion paragraph.
+
+Fig_4_16
+Chapter: 4
+Section: Categorical Analysis
+Placement: After the relevant discussion paragraph.
+
+Fig_4_17
+Chapter: 4
+Section: Correlation Analysis
+Placement: After the relevant discussion paragraph.
+
