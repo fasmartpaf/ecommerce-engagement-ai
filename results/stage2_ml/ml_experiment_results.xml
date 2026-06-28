@@ -1,0 +1,1 @@
+<MLExperiments><Model><Name>DecisionTree</Name><Accuracy>1.0</Accuracy></Model><Model><Name>RandomForest</Name><Accuracy>1.0</Accuracy></Model><Model><Name>LogisticRegression</Name><Accuracy>0.9974358974358974</Accuracy></Model><Model><Name>KNN</Name><Accuracy>0.9774358974358974</Accuracy></Model></MLExperiments>
