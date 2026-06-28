@@ -1,0 +1,39 @@
+
+Stage: stage2_ml
+Generated: 2026-03-09 10:40:37.603003
+
+Fig_5_1
+Chapter: 5
+Section: Feature Engineering
+Placement: After the relevant discussion paragraph.
+
+Fig_5_2
+Chapter: 5
+Section: Model Evaluation
+Placement: After the relevant discussion paragraph.
+
+Fig_5_3
+Chapter: 5
+Section: Model Evaluation
+Placement: After the relevant discussion paragraph.
+
+Fig_5_4
+Chapter: 5
+Section: Explainable ML
+Placement: After the relevant discussion paragraph.
+
+Fig_5_5
+Chapter: 5
+Section: Model Evaluation
+Placement: After the relevant discussion paragraph.
+
+Fig_5_6
+Chapter: 5
+Section: Model Evaluation
+Placement: After the relevant discussion paragraph.
+
+Fig_5_7
+Chapter: 5
+Section: Model Comparison
+Placement: After the relevant discussion paragraph.
+

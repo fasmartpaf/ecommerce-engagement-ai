@@ -1,0 +1,25 @@
+
+Stage: stage2_ml
+Generated: 2026-03-09 10:40:37.603003
+
+Fig_5_1 – engagement_score_distribution
+Purpose: Distribution of computed engagement score across customers.
+
+Fig_5_2 – confusion_matrix_DecisionTree
+Purpose: Confusion matrix of DecisionTree model.
+
+Fig_5_3 – confusion_matrix_RandomForest
+Purpose: Confusion matrix of RandomForest model.
+
+Fig_5_4 – feature_importance_random_forest
+Purpose: Feature importance derived from Random Forest model.
+
+Fig_5_5 – confusion_matrix_LogisticRegression
+Purpose: Confusion matrix of LogisticRegression model.
+
+Fig_5_6 – confusion_matrix_KNN
+Purpose: Confusion matrix of KNN model.
+
+Fig_5_7 – model_accuracy_comparison
+Purpose: Comparison of ML model accuracy.
+
